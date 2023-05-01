@@ -42,7 +42,7 @@ On the other hand, as I have been already worked with txt, I decided just to add
 16. At the web interface, modify the _bug_report.xml_ file, add the bug report in XML format.
 17. Save the changes at the web interface.
 18. Synchronize remote and local XML repository.
-### [Bonus - my first autotest attempt & git init]() :point_left:
+### [Bonus - git init test repo](https://github.com/ida-que/Git_init) :point_left:
 Here you can find a small file with my first automation test using Python/Selenium/Chromedriver. This was my first attempt, so please don't judge me harshly :see_no_evil:
 1. Create a local repository _First_Autotest_ in the directory where the autotest file is located.
 2. Create a remote repository in GitHub.
