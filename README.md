@@ -47,7 +47,7 @@ Here you can find a small file with my first automation test using Python/Seleni
 1. Create a local repository _First_Autotest_ in the directory where the autotest file is located.
 2. Create a remote repository in GitHub.
 3. Connect and synchronize these local and remote repositories.
-### [GIT Homework 2 - branching, push, pull]() :point_left:
+### [GIT Homework 2 - branching, push, pull](https://github.com/ida-que/GIT_branching/tree/main) :point_left:
 **Scenario:**
 1. In your local repository, make branches for:
 - Postman
